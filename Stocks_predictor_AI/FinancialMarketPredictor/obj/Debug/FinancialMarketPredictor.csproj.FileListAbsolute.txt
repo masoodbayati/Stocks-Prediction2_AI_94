@@ -1,0 +1,8 @@
+C:\Users\masoud\Downloads\Compressed\FinancialMarketPredictorArticle\FinancialMarketPredictor\bin\Debug\FinancialMarketPredictor.exe
+C:\Users\masoud\Downloads\Compressed\FinancialMarketPredictorArticle\FinancialMarketPredictor\bin\Debug\FinancialMarketPredictor.pdb
+C:\Users\masoud\Downloads\Compressed\FinancialMarketPredictorArticle\FinancialMarketPredictor\obj\Debug\FinancialMarketPredictor.csprojResolveAssemblyReference.cache
+C:\Users\masoud\Downloads\Compressed\FinancialMarketPredictorArticle\FinancialMarketPredictor\obj\Debug\FinancialMarketPredictor.Properties.Resources.resources
+C:\Users\masoud\Downloads\Compressed\FinancialMarketPredictorArticle\FinancialMarketPredictor\obj\Debug\FinancialMarketPredictor.WinFinancialMarketPredictor.resources
+C:\Users\masoud\Downloads\Compressed\FinancialMarketPredictorArticle\FinancialMarketPredictor\obj\Debug\FinancialMarketPredictor.csproj.GenerateResource.Cache
+C:\Users\masoud\Downloads\Compressed\FinancialMarketPredictorArticle\FinancialMarketPredictor\obj\Debug\FinancialMarketPredictor.exe
+C:\Users\masoud\Downloads\Compressed\FinancialMarketPredictorArticle\FinancialMarketPredictor\obj\Debug\FinancialMarketPredictor.pdb
